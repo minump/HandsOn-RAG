@@ -1,0 +1,15 @@
+jupyter
+python-dotenv
+qdrant-client
+# langchain
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchainhub
+# openai
+openai
+# rst file loaders
+# pandoc
+pypandoc
+unstructured
