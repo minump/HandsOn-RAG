@@ -13,8 +13,9 @@ cython_debug/
 *.pkg
 
 # data folder
-docs
-# delta_docs
+# docs
+# data
+delta_docs
 
 # env
 .env
