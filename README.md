@@ -9,7 +9,8 @@ Hands-on tutorial on RAG
       - c. Create the python environment (for this example we choose name rag-python3.9): ``` conda create -n rag-python3.9 python=3.9```
       - d. Activate the environment: ``` conda activate rag-python3.9```
 
-2. Executing the Hands-on code:
+## Instructions to run code
+1. Executing the Hands-on code:
    - a. Clone the github repo in your local
    - b. Open the `rag.ipynb` file and run the first line of code - `pip install -r requirements.txt`
    - c. Set env variables:
@@ -17,7 +18,7 @@ Hands-on tutorial on RAG
       - Open the `.example-env` file and add your OpenAI API key and Ollama API key. Rename file to `.env`.
    - Go through `rag.ipynb` file and execute the cells.
   
-3. Checkout the slides in [RAG HandsOn.pdf](https://github.com/minump/HandsOn-RAG/blob/main/RAG%20HandsOn.pdf) file
+2. Checkout the slides in [RAG HandsOn.pdf](https://github.com/minump/HandsOn-RAG/blob/main/RAG%20HandsOn.pdf) file
 
 
 ~~# Registration~~
