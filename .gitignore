@@ -19,3 +19,4 @@ delta_docs
 
 # env
 .env
+.venv/

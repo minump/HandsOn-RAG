@@ -1,15 +1,16 @@
 jupyter
-python-dotenv
-qdrant-client
+pandas
+python-dotenv==1.0
+qdrant-client==1.12
 # langchain
-langchain
-langchain-community
-langchain-core
-langchain-openai
-langchainhub
+langchain==0.3
+langchain-community==0.3
+langchain-core==0.3
+langchain-openai==0.2
+langchainhub==0.1
 # openai
-openai
+openai==1.54
 # rst file loaders
 # pandoc
-pypandoc
-unstructured
+pypandoc==1.14
+unstructured==0.16
