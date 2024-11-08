@@ -16,7 +16,8 @@ Hands-on tutorial on RAG
    - c. Set env variables:
       - We will some environment variables set. The environment variables required are in `.example-env` file.
       - Open the `.example-env` file and add your OpenAI API key and Ollama API key. Rename file to `.env`.
-   - Go through `rag.ipynb` file and execute the cells.
+2. Feel free to add more documents in the `docs` folder. 
+3. Go through `rag.ipynb` file and execute the cells.
   
-2. Checkout the slides in [RAG HandsOn.pdf](https://github.com/minump/HandsOn-RAG/blob/main/RAG%20HandsOn.pdf) file
+4. Checkout the slides in [RAG HandsOn.pdf](https://github.com/minump/HandsOn-RAG/blob/main/RAG%20HandsOn.pdf) file
 
