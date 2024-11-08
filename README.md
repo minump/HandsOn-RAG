@@ -4,6 +4,7 @@ Hands-on tutorial on RAG
 ## Prerequisites
 1. Computing env setup:
    - Follow [incore-setup](https://incore.ncsa.illinois.edu/doc/incore/getting_started.html#install-pyincore-package-quick-reference) tutorial
+   - Do steps 1,2,3,6
 1. Clone the github repo in your local
 2. Open the `rag.ipynb` file and run the first line of code - `pip install -r requirements.txt`
 3. Set env variables:
