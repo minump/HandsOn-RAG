@@ -20,8 +20,3 @@ Hands-on tutorial on RAG
   
 2. Checkout the slides in [RAG HandsOn.pdf](https://github.com/minump/HandsOn-RAG/blob/main/RAG%20HandsOn.pdf) file
 
-
-~~# Registration~~
-~~Go to [this](https://docs.google.com/spreadsheets/d/1mvL6bwW5SBj03RvamBbDV9qcOg5pqKgH0Yo2K2Ry9Uw/edit?gid=273629540#gid=273629540) google sheet.~~
-
-~~Put your name and email ID next you a user account~~
