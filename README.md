@@ -3,7 +3,7 @@ Hands-on tutorial on RAG
 
 ## Prerequisites
 1. Computing env setup:
-   - Use conda/miniconda to set up a virtual environment. If a virtual environment with python>=3.9 with a jupyter kernel, please skip the below steps.
+   - Use conda/miniconda to set up a virtual environment. If you have a virtual environment with python>=3.9 with a jupyter kernel, use that env/kernel and skip the below steps.
       - a. Download the latest Miniconda3 installer from the [Miniconda](https://docs.conda.io/en/latest/miniconda.html) web page.
       - b. From the Terminal (Mac/Linux) or Command Prompt (Windows) add [conda-forge](https://conda-forge.org/) package repository/channel to your environment:  ```conda config --add channels conda-forge```
       - c. Create the python environment (for this example we choose name rag-python3.9): ``` conda create -n rag-python3.9 python=3.9```
